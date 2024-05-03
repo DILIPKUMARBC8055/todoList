@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "TODO LIST forntend app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DILIPKUMARBC8055/todoList.git"
+  },
+  "author": "DILIP KUMAR BC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DILIPKUMARBC8055/todoList/issues"
+  },
+  "homepage": "https://github.com/DILIPKUMARBC8055/todoList#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
